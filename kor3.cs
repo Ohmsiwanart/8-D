@@ -48,6 +48,10 @@ namespace ConsoleApp4
                 Console.WriteLine("Invalid blackflim width please try again");
             }
         }
+         else
+            {
+                Console.WriteLine("Invalid flimblackwidth please try again");
+            }
     }
 }
         
